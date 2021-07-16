@@ -1,0 +1,36 @@
+
+body{
+    position: relative;
+}
+#login-form{
+    margin-top: 20px;
+}
+
+#heading{
+    font-size: 40px;
+    color: rgb(107, 95, 95);
+}
+
+#navbar{
+    background-color: white;
+    border-bottom: none;
+}
+
+#logo{
+    display: inline;
+}
+
+#brand-name{
+    font-size: 25px;
+    margin-top: 4px;
+    margin-left: -20px;
+}
+
+#or{
+    color: rgb(156, 156, 156);
+}
+
+.bround{
+    width: 100vw;
+    height: 100vh;
+}
